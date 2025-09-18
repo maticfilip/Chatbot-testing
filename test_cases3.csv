@@ -1,0 +1,93 @@
+﻿test_ID ,unos,ocekivani_intent
+T1,"""Radno vrijeme?""",radno_vrijeme
+T2,"""Radite li sutra?""",radno_vrijeme
+T3,"""Kad radite?""",radno_vrijeme
+T4,"""Kad ste tu?""",radno_vrijeme
+T5,"""Kad otvoreno?""",radno_vrijeme
+T6,"""Otvoreno?""",radno_vrijeme
+T7,"""Jeste trenutno tu?""",radno_vrijeme
+T8,"""jel otvorneo?""",radno_vrijeme
+T9,"""Kad počinjete?""",radno_vrijeme
+T10,"""U koliko otvarate?""",radno_vrijeme
+T11,"""Koja je cijena ulaznice?""",ulaznice
+T12,"""Cijena ulaznice?""",ulaznice
+T13,"""cijene ulzanica?""",ulaznice
+T14,"""Koliko košta?""",ulaznice
+T15,"""Koliko su ulaznice?""",ulaznice
+T16,"""Koliko je ulaz?""",ulaznice
+T17,"""Koliko naplaćujete?""",ulaznice
+T18,"""Postoje li popusti?""",ulaznice
+T19,"""Imate li neke popuste?""",ulaznice
+T20,"""Popust za umirovljenike?""",ulaznice
+T21,"""Umirovljenik sam, imam li popust?""",ulaznice
+T22,"""Gdje se nalazi muzej?""",adresa
+T23,"""Gdje je muzej?""",adresa
+T24,"""Koja je adresa?""",adresa
+T25,"""Muzej adresa?""",adresa
+T26,"""adrsea muzej?""",adresa
+T27,"""Gdje se nalazi muzej?""",adresa
+T28,"""Gdje ste smješteni?""",adresa
+T29,"""Kako doći do muzeja?""",adresa
+T30,"""Što je danas izloženo?""",danas_izlozbe
+T31,"""Koje su izlozbe danas?""",danas_izlozbe
+T32,"""Što danas mogu vidjeti?""",danas_izlozbe
+T33,"""Koje su izložbe dostupne?""",danas_izlozbe
+T34,"""Što je na programu?""",danas_izlozbe
+T35,"""Što je danas po programu?""",danas_izlozbe
+T36,"""Što je dnas izložmno?""",danas_izlozbe
+T37,"""Što mogu vidjeti danas?""",danas_izlozbe
+T38,"""Kakve izložbe imaju trenutno?""",danas_izlozbe
+T39,"""Koja izložba je dostupna?""",danas_izlozbe
+T40,"""Dosutpne izloždbe?""",danas_izlozbe
+T41,"""Ima li kafić?""",kafic
+T42,"""Postoji li kafić u muzeju?""",kafic
+T43,"""Kafić u muzeju?""",kafic
+T44,"""Mogu li popiti kavu dok čekam ženu u muzeju?""",kafic
+T45,"""Gdje mogu popiti kavicu?""",kafic
+T46,"""Imte li kafic?""",kafic
+T47,"""Postoji li kafic u muzeju?""",kafic
+T48,"""Imate li kafic?""",kafic
+T49,"""Gdje je toalet?""",toaleti
+T50,"""Dje je toalet?""",toaleti
+T51,"""Ima li toalet?""",toaleti
+T52,"""Ima li WC?""",toaleti
+T53,"""Gdje je WC?""",toaleti
+T54,"""Postoji li wc?""",toaleti
+T55,"""Gdje wc?""",toaleti
+T56,"""dje je taolte?""",toaleti
+T57,"""Imate li dizalo?""",pristupacnost
+T58,"""Imate li lift?""",pristupacnost
+T59,"""Ima li dizalo?""",pristupacnost
+T60,"""Mogu li doći s invalidskim kolicima?""",pristupacnost
+T61,"""Je li pristupačno invalidima?""",pristupacnost
+T62,"""Imate li dizala za kolica?""",pristupacnost
+T63,"""Postoji li pristup za invalide?""",pristupacnost
+T64,"""jeste li pristupacni za kolica?""",pristupacnost
+T65,"""jeste li prstupcni invaldima?""",pristupacnost
+T66,"""Je li parking besplatan?""",parking
+T67,"""Imate li parking?""",parking
+T68,"""Gdje je parking?""",parking
+T69,"""Je li mogu parkirati?""",parking
+T70,"""dje parkng?""",parking
+T71,"""Koliko je za parking?""",parking
+T72,"""Gdje mogu ostaviti automobil?""",parking
+T73,"""gdje mogu parkirati?""",parking
+T74,"""Mogu li se učlaniti?""",clanstvo
+T75,"""Postoji li članstvo?""",clanstvo
+T76,"""Nudite li članstvo?""",clanstvo
+T77,"""nudite li clanstvo?""",clanstvo
+T78,"""je li nudite clanstvo?""",clanstvo
+T79,"""Mogu li postati član?""",clanstvo
+T80,"""kako postati clan?""",clanstvo
+T81,"""Koliko košta članstvo?""",clanstvo
+T82,"""koliko je clanstvo?""",clanstvo
+T83,"""Kako vas mogu kontaktirati?""",kontakt
+T84,"""kako vas mogu kontaktirat?""",kontakt
+T85,"""Koji je kontakt?""",kontakt
+T86,"""Može li kontakt broj?""",kontakt
+T87,"""Koji je broj?""",kontakt
+T88,"""Broj telefona?""",kontakt
+T89,"""moze li broj telefona?""",kontakt
+T90,"""moze li brj telefnao?""",kontakt
+T91,"""Koji je vaš broj?""",kontakt
+T92,"""koji je vas broj?""",kontakt

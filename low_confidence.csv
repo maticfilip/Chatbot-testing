@@ -1,0 +1,82 @@
+unos,prolaz,iznad_mediana
+"""Radite li sutra?""",TOČNO,NE
+"""Otvoreno?""",TOČNO,NE
+"""Jeste trenutno tu?""",TOČNO,NE
+"""jel otvorneo?""",TOČNO,NE
+"""U koliko otvarate?""",NETOČNO,NE
+"""Koja je cijena ulaznice?""",TOČNO,NE
+"""cijene ulzanica?""",NETOČNO,NE
+"""Koliko su ulaznice?""",TOČNO,NE
+"""Koliko je ulaz?""",TOČNO,NE
+"""Koliko naplaćujete?""",TOČNO,NE
+"""Postoje li popusti?""",TOČNO,NE
+"""Imate li neke popuste?""",TOČNO,NE
+"""Umirovljenik sam, imam li popust?""",TOČNO,NE
+"""Gdje se nalazi muzej?""",TOČNO,NE
+"""Gdje je muzej?""",NETOČNO,NE
+"""Koja je adresa?""",TOČNO,NE
+"""Muzej adresa?""",NETOČNO,NE
+"""adrsea muzej?""",NETOČNO,NE
+"""Gdje se nalazi muzej?""",TOČNO,NE
+"""Gdje ste smješteni?""",NETOČNO,NE
+"""Kako doći do muzeja?""",NETOČNO,NE
+"""Što je danas izloženo?""",TOČNO,NE
+"""Koje su izlozbe danas?""",NETOČNO,NE
+"""Što danas mogu vidjeti?""",TOČNO,NE
+"""Koje su izložbe dostupne?""",NETOČNO,NE
+"""Što je na programu?""",TOČNO,NE
+"""Što je danas po programu?""",TOČNO,NE
+"""Što je dnas izložmno?""",TOČNO,NE
+"""Što mogu vidjeti danas?""",TOČNO,NE
+"""Kakve izložbe imaju trenutno?""",NETOČNO,NE
+"""Koja izložba je dostupna?""",NETOČNO,NE
+"""Dosutpne izloždbe?""",NETOČNO,NE
+"""Ima li kafić?""",TOČNO,NE
+"""Postoji li kafić u muzeju?""",TOČNO,NE
+"""Kafić u muzeju?""",TOČNO,NE
+"""Mogu li popiti kavu dok čekam ženu u muzeju?""",TOČNO,NE
+"""Gdje mogu popiti kavicu?""",TOČNO,NE
+"""Imte li kafic?""",NETOČNO,NE
+"""Postoji li kafic u muzeju?""",NETOČNO,NE
+"""Imate li kafic?""",NETOČNO,NE
+"""Gdje je toalet?""",TOČNO,NE
+"""Dje je toalet?""",NETOČNO,NE
+"""Ima li toalet?""",NETOČNO,NE
+"""Ima li WC?""",NETOČNO,NE
+"""Postoji li wc?""",NETOČNO,NE
+"""Gdje wc?""",TOČNO,NE
+"""dje je taolte?""",NETOČNO,NE
+"""Imate li dizalo?""",TOČNO,NE
+"""Imate li lift?""",NETOČNO,NE
+"""Ima li dizalo?""",TOČNO,NE
+"""Mogu li doći s invalidskim kolicima?""",NETOČNO,NE
+"""Je li pristupačno invalidima?""",NETOČNO,NE
+"""Imate li dizala za kolica?""",NETOČNO,NE
+"""Postoji li pristup za invalide?""",NETOČNO,NE
+"""jeste li pristupacni za kolica?""",TOČNO,NE
+"""jeste li prstupcni invaldima?""",TOČNO,NE
+"""Je li parking besplatan?""",TOČNO,NE
+"""Imate li parking?""",NETOČNO,NE
+"""Gdje je parking?""",NETOČNO,NE
+"""Je li mogu parkirati?""",TOČNO,NE
+"""dje parkng?""",NETOČNO,NE
+"""Koliko je za parking?""",NETOČNO,NE
+"""Gdje mogu ostaviti automobil?""",TOČNO,NE
+"""gdje mogu parkirati?""",TOČNO,NE
+"""Mogu li se učlaniti?""",NETOČNO,NE
+"""Postoji li članstvo?""",TOČNO,NE
+"""Nudite li članstvo?""",TOČNO,NE
+"""nudite li clanstvo?""",TOČNO,NE
+"""je li nudite clanstvo?""",NETOČNO,NE
+"""Mogu li postati član?""",TOČNO,NE
+"""kako postati clan?""",TOČNO,NE
+"""koliko je clanstvo?""",NETOČNO,NE
+"""Kako vas mogu kontaktirati?""",TOČNO,NE
+"""kako vas mogu kontaktirat?""",TOČNO,NE
+"""Koji je kontakt?""",NETOČNO,NE
+"""Može li kontakt broj?""",NETOČNO,NE
+"""Koji je broj?""",NETOČNO,NE
+"""moze li broj telefona?""",TOČNO,NE
+"""moze li brj telefnao?""",NETOČNO,NE
+"""Koji je vaš broj?""",NETOČNO,NE
+"""koji je vas broj?""",TOČNO,NE

@@ -1,0 +1,23 @@
+﻿test_id,unos,ocekivani_intent
+T1,Kad radite?,radno_vrijeme
+T2,Koje je radno vrijeme?,radno_vrijeme
+T3,Do kada ste otvoreni danas?,radno_vrijeme
+T4,Koliko košta ulaznica?,ulaznice
+T5,Cijena karata?,ulaznice
+T6,Imate li popust za studente?,ulaznice
+T7,Gdje se nalazite?,adresa
+T8,Koja je adresa muzeja?,adresa
+T9,Što ima danas od izložbi?,danas_izlozbe
+T10,Što je danas na programu?,danas_izlozbe
+T11,Imate li kafić?,kafic
+T12,Gdje mogu popiti kavu?,kafic
+T13,Gdje je WC?,toaleti
+T14,Gdje su toaleti?,toaleti
+,Jeste li pristupačni za invalidska kolica?,pristupacnost
+,Imate li dizalo?,pristupacnost
+,Ima li parking?,parking
+,Gdje mogu parkirati?,parking
+,Nudite li članstvo?,clanstvo
+,Kako postati član?,clanstvo
+,Kako vas mogu kontaktirati?,kontakt
+,Broj telefona?,kontakt

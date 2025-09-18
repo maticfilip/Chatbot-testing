@@ -1,0 +1,93 @@
+unos,ocekivani_intent,intent,confidence,prolaz,iznad_mediana
+"""Radno vrijeme?""",radno_vrijeme,radno_vrijeme,0.22,TOČNO,DA
+"""Radite li sutra?""",radno_vrijeme,radno_vrijeme,0.18,TOČNO,NE
+"""Kad radite?""",radno_vrijeme,radno_vrijeme,0.27,TOČNO,DA
+"""Kad ste tu?""",radno_vrijeme,radno_vrijeme,0.22,TOČNO,DA
+"""Kad otvoreno?""",radno_vrijeme,radno_vrijeme,0.21,TOČNO,DA
+"""Otvoreno?""",radno_vrijeme,radno_vrijeme,0.14,TOČNO,NE
+"""Jeste trenutno tu?""",radno_vrijeme,radno_vrijeme,0.14,TOČNO,NE
+"""jel otvorneo?""",radno_vrijeme,radno_vrijeme,0.14,TOČNO,NE
+"""Kad počinjete?""",radno_vrijeme,radno_vrijeme,0.21,TOČNO,DA
+"""U koliko otvarate?""",radno_vrijeme,ulaznice,0.19,NETOČNO,NE
+"""Koja je cijena ulaznice?""",ulaznice,ulaznice,0.15,TOČNO,NE
+"""Cijena ulaznice?""",ulaznice,ulaznice,0.2,TOČNO,DA
+"""cijene ulzanica?""",ulaznice,radno_vrijeme,0.14,NETOČNO,NE
+"""Koliko košta?""",ulaznice,ulaznice,0.23,TOČNO,DA
+"""Koliko su ulaznice?""",ulaznice,ulaznice,0.17,TOČNO,NE
+"""Koliko je ulaz?""",ulaznice,ulaznice,0.16,TOČNO,NE
+"""Koliko naplaćujete?""",ulaznice,ulaznice,0.19,TOČNO,NE
+"""Postoje li popusti?""",ulaznice,ulaznice,0.14,TOČNO,NE
+"""Imate li neke popuste?""",ulaznice,ulaznice,0.15,TOČNO,NE
+"""Popust za umirovljenike?""",ulaznice,ulaznice,0.21,TOČNO,DA
+"""Umirovljenik sam, imam li popust?""",ulaznice,ulaznice,0.19,TOČNO,NE
+"""Gdje se nalazi muzej?""",adresa,adresa,0.16,TOČNO,NE
+"""Gdje je muzej?""",adresa,toaleti,0.16,NETOČNO,NE
+"""Koja je adresa?""",adresa,adresa,0.17,TOČNO,NE
+"""Muzej adresa?""",adresa,radno_vrijeme,0.13,NETOČNO,NE
+"""adrsea muzej?""",adresa,radno_vrijeme,0.14,NETOČNO,NE
+"""Gdje se nalazi muzej?""",adresa,adresa,0.16,TOČNO,NE
+"""Gdje ste smješteni?""",adresa,radno_vrijeme,0.15,NETOČNO,NE
+"""Kako doći do muzeja?""",adresa,radno_vrijeme,0.15,NETOČNO,NE
+"""Što je danas izloženo?""",danas_izlozbe,danas_izlozbe,0.18,TOČNO,NE
+"""Koje su izlozbe danas?""",danas_izlozbe,radno_vrijeme,0.17,NETOČNO,NE
+"""Što danas mogu vidjeti?""",danas_izlozbe,danas_izlozbe,0.15,TOČNO,NE
+"""Koje su izložbe dostupne?""",danas_izlozbe,radno_vrijeme,0.16,NETOČNO,NE
+"""Što je na programu?""",danas_izlozbe,danas_izlozbe,0.18,TOČNO,NE
+"""Što je danas po programu?""",danas_izlozbe,danas_izlozbe,0.19,TOČNO,NE
+"""Što je dnas izložmno?""",danas_izlozbe,danas_izlozbe,0.15,TOČNO,NE
+"""Što mogu vidjeti danas?""",danas_izlozbe,danas_izlozbe,0.15,TOČNO,NE
+"""Kakve izložbe imaju trenutno?""",danas_izlozbe,radno_vrijeme,0.14,NETOČNO,NE
+"""Koja izložba je dostupna?""",danas_izlozbe,radno_vrijeme,0.14,NETOČNO,NE
+"""Dosutpne izloždbe?""",danas_izlozbe,radno_vrijeme,0.14,NETOČNO,NE
+"""Ima li kafić?""",kafic,kafic,0.13,TOČNO,NE
+"""Postoji li kafić u muzeju?""",kafic,kafic,0.16,TOČNO,NE
+"""Kafić u muzeju?""",kafic,kafic,0.13,TOČNO,NE
+"""Mogu li popiti kavu dok čekam ženu u muzeju?""",kafic,kafic,0.16,TOČNO,NE
+"""Gdje mogu popiti kavicu?""",kafic,kafic,0.16,TOČNO,NE
+"""Imte li kafic?""",kafic,ulaznice,0.14,NETOČNO,NE
+"""Postoji li kafic u muzeju?""",kafic,ulaznice,0.14,NETOČNO,NE
+"""Imate li kafic?""",kafic,ulaznice,0.15,NETOČNO,NE
+"""Gdje je toalet?""",toaleti,toaleti,0.16,TOČNO,NE
+"""Dje je toalet?""",toaleti,radno_vrijeme,0.15,NETOČNO,NE
+"""Ima li toalet?""",toaleti,parking,0.15,NETOČNO,NE
+"""Ima li WC?""",toaleti,parking,0.13,NETOČNO,NE
+"""Gdje je WC?""",toaleti,toaleti,0.2,TOČNO,DA
+"""Postoji li wc?""",toaleti,ulaznice,0.13,NETOČNO,NE
+"""Gdje wc?""",toaleti,toaleti,0.16,TOČNO,NE
+"""dje je taolte?""",toaleti,radno_vrijeme,0.15,NETOČNO,NE
+"""Imate li dizalo?""",pristupacnost,pristupacnost,0.19,TOČNO,NE
+"""Imate li lift?""",pristupacnost,ulaznice,0.15,NETOČNO,NE
+"""Ima li dizalo?""",pristupacnost,pristupacnost,0.14,TOČNO,NE
+"""Mogu li doći s invalidskim kolicima?""",pristupacnost,ulaznice,0.13,NETOČNO,NE
+"""Je li pristupačno invalidima?""",pristupacnost,radno_vrijeme,0.13,NETOČNO,NE
+"""Imate li dizala za kolica?""",pristupacnost,ulaznice,0.16,NETOČNO,NE
+"""Postoji li pristup za invalide?""",pristupacnost,ulaznice,0.16,NETOČNO,NE
+"""jeste li pristupacni za kolica?""",pristupacnost,pristupacnost,0.15,TOČNO,NE
+"""jeste li prstupcni invaldima?""",pristupacnost,pristupacnost,0.14,TOČNO,NE
+"""Je li parking besplatan?""",parking,parking,0.14,TOČNO,NE
+"""Imate li parking?""",parking,ulaznice,0.14,NETOČNO,NE
+"""Gdje je parking?""",parking,toaleti,0.14,NETOČNO,NE
+"""Je li mogu parkirati?""",parking,parking,0.16,TOČNO,NE
+"""dje parkng?""",parking,radno_vrijeme,0.14,NETOČNO,NE
+"""Koliko je za parking?""",parking,ulaznice,0.17,NETOČNO,NE
+"""Gdje mogu ostaviti automobil?""",parking,parking,0.14,TOČNO,NE
+"""gdje mogu parkirati?""",parking,parking,0.18,TOČNO,NE
+"""Mogu li se učlaniti?""",clanstvo,ulaznice,0.12,NETOČNO,NE
+"""Postoji li članstvo?""",clanstvo,clanstvo,0.16,TOČNO,NE
+"""Nudite li članstvo?""",clanstvo,clanstvo,0.19,TOČNO,NE
+"""nudite li clanstvo?""",clanstvo,clanstvo,0.16,TOČNO,NE
+"""je li nudite clanstvo?""",clanstvo,radno_vrijeme,0.13,NETOČNO,NE
+"""Mogu li postati član?""",clanstvo,clanstvo,0.16,TOČNO,NE
+"""kako postati clan?""",clanstvo,clanstvo,0.16,TOČNO,NE
+"""Koliko košta članstvo?""",clanstvo,ulaznice,0.21,NETOČNO,DA
+"""koliko je clanstvo?""",clanstvo,ulaznice,0.16,NETOČNO,NE
+"""Kako vas mogu kontaktirati?""",kontakt,kontakt,0.19,TOČNO,NE
+"""kako vas mogu kontaktirat?""",kontakt,kontakt,0.17,TOČNO,NE
+"""Koji je kontakt?""",kontakt,radno_vrijeme,0.15,NETOČNO,NE
+"""Može li kontakt broj?""",kontakt,ulaznice,0.13,NETOČNO,NE
+"""Koji je broj?""",kontakt,radno_vrijeme,0.14,NETOČNO,NE
+"""Broj telefona?""",kontakt,kontakt,0.2,TOČNO,DA
+"""moze li broj telefona?""",kontakt,kontakt,0.18,TOČNO,NE
+"""moze li brj telefnao?""",kontakt,ulaznice,0.14,NETOČNO,NE
+"""Koji je vaš broj?""",kontakt,radno_vrijeme,0.14,NETOČNO,NE
+"""koji je vas broj?""",kontakt,kontakt,0.14,TOČNO,NE

@@ -1,0 +1,39 @@
+unos,ocekivani_intent,intent,confidence,prolaz,iznad_mediana
+"""U koliko otvarate?""",radno_vrijeme,ulaznice,0.19,NETOČNO,NE
+"""cijene ulzanica?""",ulaznice,radno_vrijeme,0.14,NETOČNO,NE
+"""Gdje je muzej?""",adresa,toaleti,0.16,NETOČNO,NE
+"""Muzej adresa?""",adresa,radno_vrijeme,0.13,NETOČNO,NE
+"""adrsea muzej?""",adresa,radno_vrijeme,0.14,NETOČNO,NE
+"""Gdje ste smješteni?""",adresa,radno_vrijeme,0.15,NETOČNO,NE
+"""Kako doći do muzeja?""",adresa,radno_vrijeme,0.15,NETOČNO,NE
+"""Koje su izlozbe danas?""",danas_izlozbe,radno_vrijeme,0.17,NETOČNO,NE
+"""Koje su izložbe dostupne?""",danas_izlozbe,radno_vrijeme,0.16,NETOČNO,NE
+"""Kakve izložbe imaju trenutno?""",danas_izlozbe,radno_vrijeme,0.14,NETOČNO,NE
+"""Koja izložba je dostupna?""",danas_izlozbe,radno_vrijeme,0.14,NETOČNO,NE
+"""Dosutpne izloždbe?""",danas_izlozbe,radno_vrijeme,0.14,NETOČNO,NE
+"""Imte li kafic?""",kafic,ulaznice,0.14,NETOČNO,NE
+"""Postoji li kafic u muzeju?""",kafic,ulaznice,0.14,NETOČNO,NE
+"""Imate li kafic?""",kafic,ulaznice,0.15,NETOČNO,NE
+"""Dje je toalet?""",toaleti,radno_vrijeme,0.15,NETOČNO,NE
+"""Ima li toalet?""",toaleti,parking,0.15,NETOČNO,NE
+"""Ima li WC?""",toaleti,parking,0.13,NETOČNO,NE
+"""Postoji li wc?""",toaleti,ulaznice,0.13,NETOČNO,NE
+"""dje je taolte?""",toaleti,radno_vrijeme,0.15,NETOČNO,NE
+"""Imate li lift?""",pristupacnost,ulaznice,0.15,NETOČNO,NE
+"""Mogu li doći s invalidskim kolicima?""",pristupacnost,ulaznice,0.13,NETOČNO,NE
+"""Je li pristupačno invalidima?""",pristupacnost,radno_vrijeme,0.13,NETOČNO,NE
+"""Imate li dizala za kolica?""",pristupacnost,ulaznice,0.16,NETOČNO,NE
+"""Postoji li pristup za invalide?""",pristupacnost,ulaznice,0.16,NETOČNO,NE
+"""Imate li parking?""",parking,ulaznice,0.14,NETOČNO,NE
+"""Gdje je parking?""",parking,toaleti,0.14,NETOČNO,NE
+"""dje parkng?""",parking,radno_vrijeme,0.14,NETOČNO,NE
+"""Koliko je za parking?""",parking,ulaznice,0.17,NETOČNO,NE
+"""Mogu li se učlaniti?""",clanstvo,ulaznice,0.12,NETOČNO,NE
+"""je li nudite clanstvo?""",clanstvo,radno_vrijeme,0.13,NETOČNO,NE
+"""Koliko košta članstvo?""",clanstvo,ulaznice,0.21,NETOČNO,DA
+"""koliko je clanstvo?""",clanstvo,ulaznice,0.16,NETOČNO,NE
+"""Koji je kontakt?""",kontakt,radno_vrijeme,0.15,NETOČNO,NE
+"""Može li kontakt broj?""",kontakt,ulaznice,0.13,NETOČNO,NE
+"""Koji je broj?""",kontakt,radno_vrijeme,0.14,NETOČNO,NE
+"""moze li brj telefnao?""",kontakt,ulaznice,0.14,NETOČNO,NE
+"""Koji je vaš broj?""",kontakt,radno_vrijeme,0.14,NETOČNO,NE
