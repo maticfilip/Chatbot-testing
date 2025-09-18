@@ -1,3 +1,56 @@
+# Testiranje učinkovitosti i točnosti chatbota  
+**Za Raiffesein Bank testiranje, pozicija Junior developer za chatbot tim**  
+*Filip Matić*  
+
+---
+
+## Uvod  
+
+Testiranje se provodi u svrhu provjeravanja točnosti prepoznavanja namjere korisnika (*intent*) na osnovu njegovog upita, odnosno unosa korisnika. Testiranjem su provjerene osnovne metrike poput **točnosti** (omjer točnih odgovora i ukupnog broja pitanja) i **povjerenja modela (confidence)**.  
+
+Chatbot za testiranje ima **10 namjera** (*intenta*), koje bi trebao prepoznati iz korisničkog upita.  
+
+Intenti:  
+- `radno_vrijeme`  
+- `ulaznice`  
+- `adresa`  
+- `danas_izložbe`  
+- `kafic`  
+- `toaleti`  
+- `pristupacnost`  
+- `parking`  
+- `clanstvo`  
+- `kontakt`  
+
+Za svaki intent su predloženi primjeri za koje bi chatbot trebao sigurno pogoditi namjeru, odnosno odgovor. Za svaki intent postoji samo jedan točan odgovor.  
+
+---
+
+## Okruženje  
+
+Testiranje je provedeno lokalno, u **Python virtualnom okruženju** napravljenom na temelju priložene `.env.example` datoteke.  
+
+Za testiranje je pripremljeno **92 test case-a**. Test caseovi su napisani tako da testiraju sposobnost prepoznati točan intent u uvjetima kada upiti nisu optimalno napisani, odnosno da simuliraju svakodnevnu situaciju gdje korisnik ne zna kako treba optimalno formulirati pitanje za unos.  
+
+Napisani test caseovi su priloženi uz izvještaj, a njihova namjera je bila testirati različite vrste upita:  
+- Točni upiti  
+- Upiti s neformalnim govorom  
+- Upiti s greškama u tipkanju  
+- Upiti s gramatičkim/pravopisnim greškama  
+- Upiti bez specijalnih znakova č,ć,š,ž,đ  
+
+---
+
+## Testni slučajevi  
+
+Za svaki test case je poslan upit API-u, te su iz njegovog odgovora izvučeni podaci potrebni za testiranje točnosti chatbota.  
+
+Primjer formata testnog slučaja:  
+
+test_ID | unos | ocekivani_intent
+T1 | "Koje radno vrijeme?" | radno_vrijeme
+T2 | "Kad radite?" | radno_vrijeme
+
 
 Osim sposobnosti bota da prepozna intent, napisani upiti su zamišljeni tako da ispitaju sljedeće sposobnosti:  
 - Jezična varijabilnost  
