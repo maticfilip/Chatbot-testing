@@ -83,7 +83,7 @@ Korištene datoteke:
 
 ## Rezultati  
 
-Cijeli kod se vrtio `__`, što je posljedica prolazaka kroz sve upite za testiranje iz dvije tablice.  
+Cijeli kod se vrtio 3 minute i 53 sekunde, što je posljedica prolazaka kroz sve upite za testiranje iz dvije tablice.  
 
 Što se tiče podataka iz **tocni_odgovori**, prosjek i median su dosta niski.  
 - Median confidence = **0.2**  
