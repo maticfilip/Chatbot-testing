@@ -91,10 +91,10 @@ Cijeli kod se vrtio `__`, što je posljedica prolazaka kroz sve upite za testira
 
 Za daljnju klasifikaciju testnih upita korišten je median confidence.  
 
-Od `__` testnih upita, njih `__` je zadovoljilo, odnosno točno pogodilo namjeru korisnika, što nam daje **__% točnosti**.  
+Od 92 testnih upita, njih 54 je zadovoljilo, odnosno točno pogodilo namjeru korisnika, što nam daje **__% točnosti**.  
 
 👉 Unatoč niskom median confidence-u, čak 81 upit je ispod mediana, ali dio njih i dalje daje točan intent.  
-👉 43 upita (tj. __%) imaju nizak prag sigurnosti, ali svejedno pogađaju točan intent.  
+👉 43 upita (tj. 46.7%) imaju nizak prag sigurnosti, ali svejedno pogađaju točan intent.  
 
 ➡️ Zaključak: **razina confidence-a nije bila metrika koju smo mogli uzeti u obzir za točnost klasifikacije.**  
 Točnost je određena isključivo usporedbom točnog i predviđenog intenta.  
